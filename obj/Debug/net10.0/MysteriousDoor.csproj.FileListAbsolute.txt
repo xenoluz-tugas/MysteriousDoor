@@ -1,0 +1,14 @@
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\bin\Debug\net10.0\MysteriousDoor.exe
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\bin\Debug\net10.0\MysteriousDoor.deps.json
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\bin\Debug\net10.0\MysteriousDoor.runtimeconfig.json
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\bin\Debug\net10.0\MysteriousDoor.dll
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\bin\Debug\net10.0\MysteriousDoor.pdb
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.AssemblyInfoInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.AssemblyInfo.cs
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.csproj.CoreCompileInputs.cache
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.dll
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\refint\MysteriousDoor.dll
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.pdb
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\MysteriousDoor.genruntimeconfig.cache
+C:\Users\Az\Documents\Mapel\Programming\MysteriousDoor\obj\Debug\net10.0\ref\MysteriousDoor.dll
